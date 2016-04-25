@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiadiploma07fredgoog_0015.png"; bbox 0 0 4372 5918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 573 2035 1406 2183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 573 2035 1406 2183">
+     <span class='ocr_line' id='line_1_1' title="bbox 573 2035 1406 2183; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 573 2035 1406 2183; x_wconf 81' lang='lat' dir='ltr'>CONSTIIUTIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 769 2347 1211 2430">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 769 2347 1211 2430">
+     <span class='ocr_line' id='line_1_2' title="bbox 769 2347 1211 2430; baseline -0.002 -3"><span class='ocrx_word' id='word_1_2' title='bbox 769 2347 936 2430; x_wconf 86' lang='lat' dir='ltr'>REGNI</span> <span class='ocrx_word' id='word_1_3' title='bbox 968 2347 1211 2429; x_wconf 77' lang='lat' dir='ltr'>SICILIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 389 2587 1596 2770">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 389 2587 1596 2770">
+     <span class='ocr_line' id='line_1_3' title="bbox 389 2587 1596 2659; baseline 0.001 -18"><span class='ocrx_word' id='word_1_4' title='bbox 389 2587 466 2644; x_wconf 75' lang='grc' dir='ltr'>ΤΗΙ</span> <span class='ocrx_word' id='word_1_5' title='bbox 488 2589 742 2658; x_wconf 67' lang='lat' dir='ltr'><strong>nmium,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 765 2590 841 2647; x_wconf 70' lang='lat' dir='ltr'>w!</span> <span class='ocrx_word' id='word_1_7' title='bbox 863 2589 965 2659; x_wconf 69' lang='lat' dir='ltr'>Quas</span> <span class='ocrx_word' id='word_1_8' title='bbox 987 2589 1133 2646; x_wconf 73' lang='lat' dir='ltr'><strong>Posm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1156 2590 1332 2646; x_wconf 69' lang='lat' dir='ltr'><strong>mvnsls</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1354 2587 1596 2644; x_wconf 78' lang='lat' dir='ltr'>&#39;IIIIIPOIIIBIIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 579 2713 1400 2770; baseline 0 -3"><span class='ocrx_word' id='word_1_11' title='bbox 579 2713 602 2767; x_wconf 88' lang='lat' dir='ltr'>II</span> <span class='ocrx_word' id='word_1_12' title='bbox 624 2713 838 2770; x_wconf 70' lang='lat' dir='ltr'>rnmssluco</span> <span class='ocrx_word' id='word_1_13' title='bbox 860 2713 1036 2770; x_wconf 77' lang='lat' dir='ltr'>SECUNDO</span> <span class='ocrx_word' id='word_1_14' title='bbox 1057 2713 1198 2769; x_wconf 74' lang='lat' dir='ltr'>IIIII&#39;IIIII</span> <span class='ocrx_word' id='word_1_15' title='bbox 1219 2713 1400 2769; x_wconf 70' lang='lat' dir='ltr'>IIIIEIIIIN’I.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2190 5908">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2190 5908">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2190 5908; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 2190 5908; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
